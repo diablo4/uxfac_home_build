@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b7e5dbc.chunk.css",
+    "main.js": "/static/js/main.9fb43aab.chunk.js",
+    "main.js.map": "/static/js/main.9fb43aab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d697bdc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d697bdc.js.map",
+    "static/js/2.f9c177a4.chunk.js": "/static/js/2.f9c177a4.chunk.js",
+    "static/js/2.f9c177a4.chunk.js.map": "/static/js/2.f9c177a4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4ac074528cfc004a4b0ba1076dcfc4ab.js": "/precache-manifest.4ac074528cfc004a4b0ba1076dcfc4ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8b7e5dbc.chunk.css.map": "/static/css/main.8b7e5dbc.chunk.css.map",
+    "static/js/2.f9c177a4.chunk.js.LICENSE.txt": "/static/js/2.f9c177a4.chunk.js.LICENSE.txt",
+    "static/media/ahn.jpg": "/static/media/ahn.46975fa0.jpg",
+    "static/media/arrow.svg": "/static/media/arrow.34af0a5c.svg",
+    "static/media/eovysla.png": "/static/media/eovysla.f3648ec5.png",
+    "static/media/first.svg": "/static/media/first.3085de6f.svg",
+    "static/media/logo_uxfactory.svg": "/static/media/logo_uxfactory.00ab8d9b.svg",
+    "static/media/logo_uxfactory.png": "/static/media/logo_uxfactory.2c4bdf73.png",
+    "static/media/second.svg": "/static/media/second.7c02f3bc.svg",
+    "static/media/ssroh.png": "/static/media/ssroh.fb43f038.png",
+    "static/media/third.svg": "/static/media/third.e3058fa8.svg",
+    "static/media/throh.png": "/static/media/throh.bad0005a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d697bdc.js",
+    "static/js/2.f9c177a4.chunk.js",
+    "static/css/main.8b7e5dbc.chunk.css",
+    "static/js/main.9fb43aab.chunk.js"
+  ]
+}
